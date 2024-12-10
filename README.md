@@ -3,7 +3,7 @@ A project to play MIDI files, specifically designed for musicals.
 I'm just starting, so hopefully this works!
 I'm planning to use PyQT.
 
-## aims:
+## possible aims:
 * play midi files with VSTs and soundfounts
 * Choose safety bars, and be able to control when they stop repeating
 * automatically transpose music
@@ -11,6 +11,7 @@ I'm planning to use PyQT.
 * possibly a client for orchestra players
 * select which tracks are playing
 * mixing
+* intergation with cueing software
 * anything else that's useful
 
 ## uses:
